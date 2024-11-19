@@ -61,4 +61,33 @@ span{
     margin-top: 5px;
     display: inline-block;
     font-size: 20px;
+    font-weight: bold;
+}
+
+.editbutton{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 20%;
+    border: none;
+
+}
+
+#viola{
+    background-color: purple;
+}
+
+#verdeacq{
+    background-color: aquamarine;
+}
+
+#orange{
+    background-color: orange;
+}
+
+#rosa{
+    background-color: pink;
+}
+#green{
+    background-color: greenyellow;
 }
