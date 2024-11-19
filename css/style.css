@@ -52,3 +52,13 @@ header{
 .task{
     margin-left: 40px;
 }
+
+h2{
+    margin-top: 10px;
+}
+
+span{
+    margin-top: 5px;
+    display: inline-block;
+    font-size: 20px;
+}
